@@ -1,0 +1,13 @@
+.maxx-widthh {
+    width: 100% !important;
+    /* width: max-content; */
+
+}
+
+.bkgOrange {
+    background-color: rgb(255, 148, 49) !important;
+}
+
+.hiddenn {
+    display: none !important;
+}
